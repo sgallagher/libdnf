@@ -9,8 +9,6 @@
 #include "profile/ModuleProfile.hpp"
 #include "ModuleDependencies.hpp"
 
-#include <modulemd/modulemd-module.h>
-
 class ModuleMetadata
 {
 public:
